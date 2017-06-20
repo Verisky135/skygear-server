@@ -171,3 +171,22 @@ An additional grant of patent rights can be found in the PATENTS
 file in the same directory.
 
 ```
+
+Dokumentasi Skygear
+-------------
+Skygear merupakan BaaS open source untuk web dan mobile. Skygear source menggunakan go-lang.
+### Fitur tersedia
+1. Data storage  
+2. User management  
+Menyediakan user management, meliputi create, update, delete, authentication, access permission. Skygear mempunyai host sendiri host ([Skygear Portal](https://portal.skygear.io/)) yang bersifat multitenant, namun Skygear Open Source (skygear-server) hanya bersifat single user (tidak multi tenant).
+3. Push notification  
+4. Social graph / Social network integration  
+User dapat melakukan signup ke aplikasi dengan akun Facebook, Twitter, atau Google.
+5. Geolocation  
+
+### Fitur lain
+- Chat  
+Without any extra coding effort, Skygear automatically makes all the messages sent from a particular platform compatible with all the other platforms your app is on.
+- CMS  
+You can create and publish your content to your web and mobile apps. Marketers, designers and sales can manage, search, and update the web and mobile without bothering developers.
+
